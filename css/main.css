@@ -32,18 +32,18 @@ h2
 }
 
 #column1
-	{
-		background-color: #ed57b3;
-		width: 100%;
-		height: 300px;
-	}
+{
+	background-color: #ed57b3;
+	width: auto;
+	height: 300px;
+}
 
-	#column2
-	{
-		background-color: #ea1842;
-		width: 100%;
-		height: 300px;
-	}
+#column2
+{
+	background-color: #ea1842;
+	width: auto;
+	height: 300px;
+}
 
 
 @media screen and (min-width: 641px) {
