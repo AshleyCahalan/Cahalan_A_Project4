@@ -1,2 +1,5 @@
-# Cahalan_A_Project4
-MMED-1056 Media Query
+# MMED-1056 Project 4
+Media Query
+
+## License
+MIT
